@@ -2,13 +2,13 @@
 
 ## Overview
 
-**Corddit** is an open-source, chat platform built in TypeScript.
+**Corddit** is an open-source, chat platform.
 
 ## Quick Links
 
 - [Website](https://corddit.net): The official website.
 - [Documentation](https://docs.corddit.net): Documentation.
-- 
+
 ## Repositories
 
 ### Clients
